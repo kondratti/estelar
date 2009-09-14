@@ -1,0 +1,8 @@
+
+/src/Estelar/Debug/*
+/src/Estelar/*/Debug/*
+/src/Estelar/*.vcproj.*.user
+/src/Estelar/*/*.vcproj.*.user
+/src/Estelar/Estelar.ncb
+/src/Estelar/Estelar.suo
+/src/Estelar/estc/estelar.out
