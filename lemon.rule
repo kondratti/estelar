@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<VisualStudioToolFile
+	Name="Lemon"
+	Version="8.00"
+	>
+	<Rules>
+		<CustomBuildRule
+			Name="Lemon"
+			DisplayName="Lemon"
+			CommandLine="..\Debug\lemon.exe $(InputName).y"
+			Outputs="$(InputName).c"
+			FileExtensions="*.y"
+			ExecutionDescription="Generating Parser"
+			>
+			<Properties>
+			</Properties>
+		</CustomBuildRule>
+	</Rules>
+</VisualStudioToolFile>
